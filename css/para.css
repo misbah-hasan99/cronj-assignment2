@@ -1,0 +1,45 @@
+.para {
+  margin: 0.7rem 0;
+  font: normal normal normal 19px/30px Poppins;
+}
+
+.para-small {
+  font: normal normal normal 17px/31px Poppins;
+}
+
+.heading-para {
+  margin: 0 12rem;
+  text-align: center;
+  font: normal normal normal 19px/35px Poppins;
+}
+
+#showcase-5 #section-2 p,
+#showcase-7 #section-2 p {
+  margin: 2rem 12rem;
+}
+
+#showcase-8 #section-2 p {
+  margin: 0.3rem 0;
+}
+
+#showcase-8 #section-2 #block-2 p {
+  width: 320px;
+  height: 30px;
+  margin-left: 3.7rem;
+}
+
+#showcase-9 #section-3 #block-1 p {
+  text-align: left;
+}
+
+#showcase-9 #section-3 #block-2 p {
+  text-align: left;
+  width: 328px;
+  height: 30px;
+  margin-left: 2.5rem;
+}
+
+#showcase-10 p {
+  color: #2d2d2d;
+  font: normal normal medium 20px/30px Gilroy;
+}

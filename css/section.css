@@ -1,0 +1,197 @@
+#showcase-1 #section-1 {
+  height: 801px;
+  background: transparent url("../img/Group\ 10724.png") 0% 0% no-repeat
+    padding-box;
+  background-size: cover;
+}
+
+#showcase-1 #main-1 {
+  margin: 7rem 10rem;
+  text-align: center;
+}
+
+#showcase-1 #section-2 {
+  height: 360px;
+  margin-top: 3rem;
+  padding-top: 6rem;
+  text-align: center;
+  background: transparent url("../img/Group\ 10553.png") 0% 0% no-repeat
+    padding-box;
+}
+
+#showcase-2 #section-1 {
+  width: 1108px;
+  height: 324.97px;
+  margin: 6rem 8rem 2rem 8rem;
+  background: transparent url("../img/Group\ 10554.png") 0% 0% no-repeat
+    padding-box;
+  background-size: cover;
+}
+
+#showcase-2 #section-2 #box-2 {
+  width: 500px;
+  height: 300px;
+  margin: auto 0%;
+  padding: 1rem;
+  margin-left: -7rem;
+  border: 1px solid #70707080;
+  border-radius: 16px;
+}
+
+#showcase-3 #section-1,
+#showcase-6 #section-1 {
+  width: 1108px;
+  height: 251px;
+  margin: 2rem 8rem;
+  background: transparent url("../img/Group\ 10557.png") 0% 0% no-repeat
+    padding-box;
+  background-size: cover;
+}
+
+#showcase-3 #section-3,
+#showcase-8 {
+  background: #f8f9fd;
+}
+
+#showcase-4 {
+  color: #f8f9fd;
+}
+
+#showcase-4 #section-1,
+#showcase-5 #section-1,
+#showcase-7 #section-1 {
+  margin: 2rem 12rem;
+}
+
+#showcase-5 #section-2 {
+  width: 1337px;
+  height: 750px;
+  background: transparent url("../img/Mask\ Group\ 119.png") 0% 0% no-repeat
+    padding-box;
+  background-size: cover;
+}
+
+#showcase-6 {
+  padding: 3rem 0;
+  background-color: #eef0f6;
+}
+
+#showcase-6 #section-1,
+#showcase-9 #section-1,
+#showcase-9 #section-4 {
+  width: 1108px;
+  margin: 5rem 8rem;
+}
+
+#showcase-6 #section-2 {
+  margin: 4rem 10rem;
+}
+
+#showcase-7 #section-2 {
+  width: 98.5vw;
+  height: 670px;
+  background: transparent url("../img/Mockup\ 3.png") 0% 0% no-repeat
+    padding-box;
+  background-size: cover;
+}
+
+#showcase-7 #section-2 input {
+  margin-left: 12rem;
+  text-align: left;
+  padding: 0.9rem 2.2rem;
+}
+
+#showcase-8 #section-2,
+#showcase-9 #section-3 {
+  text-align: center;
+  margin: 3rem 6rem;
+}
+
+#showcase-8 #section-2 #block-1 div {
+  margin: 1rem 3rem;
+}
+
+#showcase-8 #section-2 #block-2 div {
+  margin: 1rem 5rem;
+  padding-bottom: 4rem;
+}
+
+#showcase-9 #section-1 {
+  width: 1108px;
+  height: 316px;
+  background: transparent url("../img/budget.png") 0% 0% no-repeat padding-box;
+  background-size: cover;
+}
+
+#showcase-9 #section-3 #block-1 div {
+  margin: 1rem 2rem;
+}
+
+#showcase-9 #section-3 #block-2 div {
+  margin: 1rem 5rem;
+}
+
+#showcase-9 #section-4 {
+  width: 1108px;
+  height: 251px;
+  background: transparent url("../img/Group\ 10588.png") 0% 0% no-repeat
+    padding-box;
+  background-size: cover;
+}
+
+#showcase-10 {
+  height: 850px;
+  background: transparent url("../img/Path\ 5630@2x.png") 0% 0% no-repeat
+    padding-box;
+  background-size: cover;
+}
+
+#showcase-10 form {
+  width: 1000px;
+  height: 810px;
+  margin: 0 auto;
+  padding: 3rem 4rem;
+  background-color: #fff;
+  box-shadow: 0px -9px 90px #00000012;
+  border-radius: 11px;
+}
+
+.block-1 label,
+.block-2 label {
+  width: 182px;
+  height: 31px;
+  color: #0f0d0d;
+  text-align: left;
+  font-size: 20px;
+}
+
+#full-name,
+#mobile-number,
+#email-id,
+#company-name {
+  width: 400px;
+  height: 45px;
+  padding-left: 1rem;
+  border: 1px solid #4569b38c;
+  border-radius: 6px;
+}
+
+#checkbox {
+  width: 20px;
+  height: 20px;
+  margin-top: 0.5rem;
+  margin-left: 1.5rem;
+  margin-right: 0.5rem;
+  margin-bottom: 1rem;
+  background: #0f4dc2 0% 0% no-repeat padding-box !important;
+}
+
+#showcase-10 textarea {
+  width: 850px;
+  height: 130px;
+  border: 1px solid #4569b38c;
+  border-radius: 6px;
+}
+#showcase-11 {
+  background-color: #f6f9fc;
+}

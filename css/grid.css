@@ -1,0 +1,20 @@
+#showcase-4 #section-1 #box-2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 3.5rem;
+  padding: 4rem 5rem;
+}
+
+#showcase-8 #section-2 #block-1,
+#showcase-8 #section-2 #block-2,
+#showcase-9 #section-3 #block-1,
+#showcase-9 #section-3 #block-2 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
+}
+
+#showcase-8 #section-2 #block-2,
+#showcase-9 #section-3 #block-2 {
+  grid-template-columns: repeat(2, 1fr);
+}

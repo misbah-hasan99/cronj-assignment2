@@ -1,0 +1,53 @@
+.flex-box {
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+}
+
+.flex-bottom {
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.flex-box-1 {
+  padding: 6.5rem 0;
+}
+
+.flex-box-2 {
+  margin-left: 1rem;
+}
+
+.flex-box-3 {
+  padding: 4.5rem 0;
+}
+
+.flex-box-4:first-child {
+  width: 80%;
+}
+
+.header {
+  padding: 3rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+#form-head {
+  display: flex;
+}
+
+.flex {
+  display: flex;
+}
+
+.block-1,
+.block-2 {
+  width: 50%;
+  margin-top: 1rem;
+  display: block;
+}
+
+.block-1 div,
+.block-2 div {
+  margin: 1rem 0;
+}

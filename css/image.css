@@ -1,0 +1,97 @@
+.header-image {
+  width: 43px;
+  height: 43px;
+}
+
+#image-border {
+  border-radius: 1.5rem;
+}
+
+#showcase-1 #main-1 button img {
+  width: 19px;
+  height: 19px;
+}
+
+#showcase-1 #section-2 img {
+  width: 100px;
+  height: 35px;
+  margin-right: 0.3rem;
+}
+
+#showcase-2 #section-1 button img {
+  width: 32px;
+  height: 32px;
+}
+
+#showcase-2 #section-2 #box-1 img {
+  width: 630px;
+  height: 425px;
+}
+
+#showcase-2 #section-2 #box-2 img {
+  width: 49px;
+  height: 50px;
+}
+
+#showcase-3 #section-2 img {
+  width: 750px;
+  height: 450px;
+  margin: 3rem 18rem;
+}
+
+#showcase-4 #section-1 #box-1 img {
+  width: 70px;
+  height: 70px;
+}
+
+#showcase-4 #section-1 #box-1 button img {
+  width: 35px;
+  height: 30px;
+}
+
+#showcase-5 #section-1 img {
+  width: 55px;
+  height: 60px;
+}
+
+#showcase-6 #section-2 img {
+  width: 80px;
+  height: 70px;
+}
+
+#showcase-6 #section-3 img {
+  width: 550x;
+  height: 400px;
+  margin: auto;
+}
+
+#showcase-7 #section-1 img {
+  width: 70px;
+  height: 70px;
+}
+
+#showcase-7 #section-3 img {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 3rem;
+}
+
+#showcase-8 #section-2 img {
+  width: 80px;
+  height: 80px;
+}
+
+#showcase-9 #section-1 button img {
+  width: 31px;
+  height: 31px;
+}
+
+#showcase-9 #section-3 img {
+  width: 313px;
+  height: 165px;
+}
+
+#showcase-10 img {
+  width: 65px;
+  height: 65px;
+}

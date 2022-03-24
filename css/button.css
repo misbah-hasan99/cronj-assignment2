@@ -1,0 +1,75 @@
+#showcase-1 #main-1 button {
+  color: #fff;
+  margin-top: 1.5rem;
+  padding: 0.2rem 0.7rem;
+  border: 1px solid #ffffff;
+  border-radius: 36px;
+  background: transparent;
+  font: normal normal normal 13px/18px Poppins;
+}
+
+#showcase-2 #section-1 button,
+#showcase-3 #section-1 button,
+#showcase-6 #section-1 button {
+  width: 264px;
+  height: 77px;
+  margin-top: 1rem;
+  border-radius: 12px;
+  color: #242525;
+  font: normal normal 600 25px/36px Gilroy;
+}
+
+#showcase-3 #section-1 button,
+#showcase-6 #section-1 button {
+  width: 250px;
+  height: 70px;
+  font: normal normal 600 24px/34px Gilroy;
+}
+
+#showcase-3 #section-3 button,
+#showcase-4 #section-1 button {
+  background: #0670f4 0% 0% no-repeat padding-box;
+  border: 2px solid #0670f4;
+  border-radius: 12px;
+  color: #fff;
+  padding: 0.5rem;
+  font: normal normal 400 20px/40px Gilroy;
+}
+
+#showcase-4 #section-1 button {
+  padding: 0.5rem 1.5rem;
+  font: normal normal 200 21px/38px Gilroy;
+}
+
+#showcase-7 #section-2 button {
+  text-align: center;
+  padding: 0.9rem 2.2rem;
+  background: #0670f4 0% 0% no-repeat padding-box;
+  border: 2px solid #0670f4;
+  border-radius: 5px;
+}
+
+#showcase-9 #section-1 button {
+  border-radius: 12px;
+  color: #242525;
+  padding: 0.5rem 1.5rem;
+  font: normal normal 200 25px/36px Gilroy;
+}
+
+#showcase-9 #section-4 button {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 12px;
+  margin-top: 1rem;
+  padding: 0.5rem 1.5rem;
+  font: normal normal 600 21px/30px Gilroy;
+  color: #242525;
+}
+
+#showcase-10 button {
+  width: 350px;
+  height: 60px;
+  color: #fff;
+  background: #0f4dc2 0% 0% no-repeat padding-box;
+  border: 1px solid #4569b38c;
+  border-radius: 9px;
+}

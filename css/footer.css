@@ -1,0 +1,102 @@
+footer {
+  height: 525px;
+  padding: 60px 80px;
+  background-image: url("../img/Group\ 13634.png");
+  background-size: cover;
+}
+
+.float-container {
+  padding: 0%;
+  display: flex;
+}
+
+.float-child-section {
+  width: 30%;
+  float: left;
+}
+
+.float-child-section1 {
+  width: 50%;
+  float: left;
+}
+
+.float-child-section2 {
+  width: 50%;
+  float: left;
+}
+
+.footer-section1 {
+  width: 20%;
+  font-size: 18px;
+}
+
+.footer-section1 p {
+  margin: 20px 0px;
+}
+
+.footer-section1 img {
+  width: 159px;
+  height: 69px;
+}
+
+.footer-section2 {
+  width: 20%;
+  padding-left: 10px;
+}
+
+.footer-section2 h4 {
+  font-size: 20px;
+  margin: 10px 0px;
+}
+
+.footer-section2 p {
+  font-size: 17px;
+  margin: 10px 0px;
+}
+
+.footer-section3 {
+  width: 20%;
+  padding-top: 40px;
+  border-right: 1px solid #71808b;
+}
+
+.footer-section3 p {
+  font-size: 17px;
+  margin: 10px 0px;
+}
+
+.footer-section4 {
+  width: 20%;
+  padding-left: 30px;
+  border-right: 1px solid #71808b;
+}
+
+.footer-section4 h4 {
+  font-size: 20px;
+  margin: 10px 0px;
+}
+
+.footer-section4 p {
+  font-size: 17px;
+  margin: 10px 0px;
+}
+
+.footer-section5 {
+  width: 20%;
+  padding-left: 30px;
+}
+
+.footer-section5 h4 {
+  font-size: 20px;
+  margin: 10px 0px;
+}
+
+.footer-section5 p {
+  font-size: 17px;
+  margin: 10px 0px;
+}
+
+.footer-section5 img {
+  width: 25px;
+  height: 25px;
+}
